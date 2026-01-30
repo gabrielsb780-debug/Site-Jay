@@ -1,2 +1,2 @@
-# Site Jay
-Site de Fotografia Jay
+# Site para um fotógrafo
+Site de Fotografia
